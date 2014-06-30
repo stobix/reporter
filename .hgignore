@@ -1,0 +1,13 @@
+syntax:glob
+
+ebin/*
+doc/*
+output/*
+*beam
+*sw?
+Mnesia*
+*csv
+hidden/*
+deprecated/*
+
+#syntax:regexp
